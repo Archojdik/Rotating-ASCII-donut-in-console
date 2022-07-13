@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ASCII Donut": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

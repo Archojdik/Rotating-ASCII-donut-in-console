@@ -1,0 +1,16 @@
+C:\Users\User\Source\Repos\ASCII Donut\bin\Release\net5.0\ASCII Donut.exe
+C:\Users\User\Source\Repos\ASCII Donut\bin\Release\net5.0\ASCII Donut.deps.json
+C:\Users\User\Source\Repos\ASCII Donut\bin\Release\net5.0\ASCII Donut.runtimeconfig.json
+C:\Users\User\Source\Repos\ASCII Donut\bin\Release\net5.0\ASCII Donut.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\ASCII Donut\bin\Release\net5.0\ASCII Donut.dll
+C:\Users\User\Source\Repos\ASCII Donut\bin\Release\net5.0\ref\ASCII Donut.dll
+C:\Users\User\Source\Repos\ASCII Donut\bin\Release\net5.0\ASCII Donut.pdb
+C:\Users\User\Source\Repos\ASCII Donut\obj\Release\net5.0\ASCII Donut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\ASCII Donut\obj\Release\net5.0\ASCII Donut.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\ASCII Donut\obj\Release\net5.0\ASCII Donut.AssemblyInfo.cs
+C:\Users\User\Source\Repos\ASCII Donut\obj\Release\net5.0\ASCII Donut.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\ASCII Donut\obj\Release\net5.0\ASCII Donut.dll
+C:\Users\User\Source\Repos\ASCII Donut\obj\Release\net5.0\ref\ASCII Donut.dll
+C:\Users\User\Source\Repos\ASCII Donut\obj\Release\net5.0\ASCII Donut.pdb
+C:\Users\User\Source\Repos\ASCII Donut\obj\Release\net5.0\ASCII Donut.genruntimeconfig.cache
+C:\Users\User\Source\Repos\ASCII Donut\obj\Release\net5.0\ASCII Donut.csproj.AssemblyReference.cache

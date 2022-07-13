@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qp3+RK+vQtw+L3+osjMxVbhpSmJuWovpBt+NHuUjTiofbdbwu59Jj0IfjERnHsERnLdS6c4N6U4PXUu/Rc+iKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Source\\Repos\\ASCII Donut\\ASCII Donut.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
